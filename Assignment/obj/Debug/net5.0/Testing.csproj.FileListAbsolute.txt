@@ -1,0 +1,16 @@
+C:\Users\gldia\source\repos\Testing\Testing\bin\Debug\net5.0\Testing.exe
+C:\Users\gldia\source\repos\Testing\Testing\bin\Debug\net5.0\Testing.deps.json
+C:\Users\gldia\source\repos\Testing\Testing\bin\Debug\net5.0\Testing.runtimeconfig.json
+C:\Users\gldia\source\repos\Testing\Testing\bin\Debug\net5.0\Testing.runtimeconfig.dev.json
+C:\Users\gldia\source\repos\Testing\Testing\bin\Debug\net5.0\Testing.dll
+C:\Users\gldia\source\repos\Testing\Testing\bin\Debug\net5.0\ref\Testing.dll
+C:\Users\gldia\source\repos\Testing\Testing\bin\Debug\net5.0\Testing.pdb
+C:\Users\gldia\source\repos\Testing\Testing\obj\Debug\net5.0\Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gldia\source\repos\Testing\Testing\obj\Debug\net5.0\Testing.AssemblyInfoInputs.cache
+C:\Users\gldia\source\repos\Testing\Testing\obj\Debug\net5.0\Testing.AssemblyInfo.cs
+C:\Users\gldia\source\repos\Testing\Testing\obj\Debug\net5.0\Testing.csproj.CoreCompileInputs.cache
+C:\Users\gldia\source\repos\Testing\Testing\obj\Debug\net5.0\Testing.dll
+C:\Users\gldia\source\repos\Testing\Testing\obj\Debug\net5.0\ref\Testing.dll
+C:\Users\gldia\source\repos\Testing\Testing\obj\Debug\net5.0\Testing.pdb
+C:\Users\gldia\source\repos\Testing\Testing\obj\Debug\net5.0\Testing.genruntimeconfig.cache
+C:\Users\gldia\source\repos\Testing\Testing\obj\Debug\net5.0\Testing.csproj.AssemblyReference.cache

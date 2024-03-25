@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\gldia\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\gldia\\.nuget\\packages"
+    ]
+  }
+}

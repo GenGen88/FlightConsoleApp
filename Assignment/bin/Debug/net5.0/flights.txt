@@ -1,0 +1,8 @@
+Light Aircraft Brisbane Sydney 1000km
+Helicopter Perth Melbourne 5000km
+Light Aircraft Perth Melbourne 3000km
+Helicopter Sydney Perth 5000km
+Light Aircraft Brisbane Perth 5000km
+Helicopter Melborune Perth 5000km
+Helicopter 7 philippines 0km
+Helicopter brisbane perth 677km

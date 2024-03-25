@@ -1,0 +1,8 @@
+Light Aircraft Brisbane Sydney 19/05/2022 3:00:00 AM 1.25hrs $250
+Helicopter Perth Melbourne 19/05/2022 5:00:00 AM 41.666666666666664hrs $25000
+Light Aircraft Perth Melbourne 19/05/2022 7:00:00 AM 3.75hrs $750
+Helicopter Sydney Perth 23/05/2022 8:00:00 AM 41.666666666666664hrs $25000
+Light Aircraft Brisbane Perth 23/05/2022 5:00:00 AM 6.25hrs $1250
+Helicopter Melborune Perth 23/05/2022 4:00:00 AM 41.67hrs $25002
+Helicopter 7 philippines 24/05/2022 4:00:00 AM 0hrs $0
+Helicopter brisbane perth 24/05/2022 7:00:00 AM 5.64hrs $3384
